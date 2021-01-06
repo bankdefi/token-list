@@ -43,6 +43,14 @@
       "symbol": "TUSD",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDC.png"
+    },
+    {
+      "chainId": 256,
+      "address": "0x1ed3538383bbfdb80343b18f85d6c5a5fb232fb6",
+      "name": "WHT",
+      "symbol": "WHT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDC.png"
     }
 
   ],
