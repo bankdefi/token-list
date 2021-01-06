@@ -1,0 +1,54 @@
+{
+  "name": "BDSWAP",
+  "logoURI": "https://github.com/wanswap/token-list/raw/main/wanswap_token_list.png",
+  "keywords": ["defi", "bdswap", "yield"],
+  "timestamp": "2020-08-25T01:40:34.305Z",
+  "tokens": [
+    {
+      "chainId": 256,
+      "address": "0x04f535663110a392a6504839beed34e019fdb4e0",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDT.png"
+    },
+    {
+      "chainId": 256,
+      "address": "0xd459dad367788893c17c09e17cfbf0bf25c62833",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDC.png"
+    },
+    {
+      "chainId": 256,
+      "address": "0xd459dad367788893c17c09e17cfbf0bf25c62833",
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDC.png"
+    },
+    {
+      "chainId": 256,
+      "address": "0x3e24e9d2c824b0ac2c82edc931b67252099b8e79",
+      "name": "LINK",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDC.png"
+    },
+    {
+      "chainId": 256,
+      "address": "0xd459dad367788893c17c09e17cfbf0bf25c62833",
+      "name": "TUSD",
+      "symbol": "TUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDC.png"
+    }
+
+  ],
+  "version": {
+    "major": 0,
+    "minor": 3,
+    "patch": 0
+  }
+}
