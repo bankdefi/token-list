@@ -22,7 +22,7 @@
     },
     {
       "chainId": 256,
-      "address": "0xd459dad367788893c17c09e17cfbf0bf25c62833",
+      "address": "0x60d64ef311a4f0e288120543a14e7f90e76304c6",
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
@@ -38,7 +38,7 @@
     },
     {
       "chainId": 256,
-      "address": "0xd459dad367788893c17c09e17cfbf0bf25c62833",
+      "address": "0xdb4c5b219168f926c2c0c776438b8355a3a4018e",
       "name": "TUSD",
       "symbol": "TUSD",
       "decimals": 18,
