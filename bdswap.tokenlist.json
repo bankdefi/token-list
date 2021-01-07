@@ -51,6 +51,14 @@
       "symbol": "WHT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDC.png"
+    },
+    {
+      "chainId": 256,
+      "address": "0x3bb87041edf93eaea82f47f2b495e5859085e3ee",
+      "name": "BDS",
+      "symbol": "BDS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDC.png"
     }
 
   ],
