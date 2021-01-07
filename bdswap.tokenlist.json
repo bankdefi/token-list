@@ -10,7 +10,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDT.png"
+      "logoURI": "https://raw.githubusercontent.com/bankdefi/token-list/main/icons/wanUSDT.png"
     },
     {
       "chainId": 256,
@@ -18,7 +18,7 @@
       "name": "USDC",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDC.png"
+      "logoURI": "https://raw.githubusercontent.com/bankdefi/token-list/main/icons/wanUSDC.png"
     },
     {
       "chainId": 256,
@@ -26,7 +26,7 @@
       "name": "DAI",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDC.png"
+      "logoURI": "https://raw.githubusercontent.com/bankdefi/token-list/main/icons/wanUSDC.png"
     },
     {
       "chainId": 256,
@@ -34,7 +34,7 @@
       "name": "LINK",
       "symbol": "LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDC.png"
+      "logoURI": "https://raw.githubusercontent.com/bankdefi/token-list/main/icons/wanUSDC.png"
     },
     {
       "chainId": 256,
@@ -42,7 +42,7 @@
       "name": "TUSD",
       "symbol": "TUSD",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDC.png"
+      "logoURI": "https://raw.githubusercontent.com/bankdefi/token-list/main/icons/wanUSDC.png"
     },
     {
       "chainId": 256,
@@ -50,7 +50,7 @@
       "name": "WHT",
       "symbol": "WHT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDC.png"
+      "logoURI": "https://raw.githubusercontent.com/bankdefi/token-list/main/icons/wanUSDC.png"
     },
     {
       "chainId": 256,
@@ -58,13 +58,13 @@
       "name": "BDS",
       "symbol": "BDS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDC.png"
+      "logoURI": "https://raw.githubusercontent.com/bankdefi/token-list/main/icons/wanUSDC.png"
     }
 
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
