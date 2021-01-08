@@ -5,6 +5,38 @@
   "timestamp": "2020-08-25T01:40:34.305Z",
   "tokens": [
     {
+      "chainId": 128,
+      "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+      "name": "Wrapped HT",
+      "symbol": "WHT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/bankdefi/token-list/main/icons/wanUSDT.png"
+    },
+    {
+      "chainId": 128,
+      "address": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
+      "name": "HUSD",
+      "symbol": "HUSD",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/bankdefi/token-list/main/icons/wanUSDT.png"
+    },
+    {
+      "chainId": 128,
+      "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+      "name": "HBTC",
+      "symbol": "HBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/bankdefi/token-list/main/icons/wanUSDT.png"
+    },
+    {
+      "chainId": 128,
+      "address": "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/bankdefi/token-list/main/icons/wanUSDT.png"
+    },
+    {
       "chainId": 256,
       "address": "0x04f535663110a392a6504839beed34e019fdb4e0",
       "name": "USDT",
