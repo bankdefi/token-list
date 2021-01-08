@@ -6,7 +6,7 @@
   "tokens": [
     {
       "name": "Wrapped HT",
-      "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+      "address": "0x1ed3538383bbfdb80343b18f85d6c5a5fb232fb6",
       "symbol": "WHT",
       "decimals": 18,
       "chainId": 128,
@@ -95,8 +95,8 @@
 
   ],
   "version": {
-    "major": 1,
-    "minor": 2,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   }
 }
